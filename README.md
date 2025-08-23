@@ -1,5 +1,3 @@
-# Calculator
-
 # 🔢 Responsive Calculator
 
 A simple and stylish calculator app built using HTML, CSS, and JavaScript.
