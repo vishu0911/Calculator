@@ -1,10 +1,11 @@
 # Calculator
-🔢 Responsive Calculator
+
+# 🔢 Responsive Calculator
 
 A simple and stylish calculator app built using HTML, CSS, and JavaScript.
 It supports basic arithmetic operations, percentage calculations (like real calculators), and works smoothly across mobile, tablet, laptop, and desktop with a responsive design.
 
-🚀 Features
+# 🚀 Features
 
 ✅ Basic operations: +, -, *, /
 
@@ -18,18 +19,18 @@ It supports basic arithmetic operations, percentage calculations (like real calc
 
 ✅ Hover effects for better user experience
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5
 
 CSS3 (Flexbox + Media Queries for responsiveness)
 
-JavaScript (Vanilla)
-
-📸 Screenshot
-
-<img width="1440" height="815" alt="Screenshot 2025-08-21 at 10 56 45 PM" src="https://github.com/user-attachments/assets/bea2a464-9fcc-4061-ab45-9c730d0bcc46" />
-
-🌐 Live link
+# 🌐 Live Demo
 
 https://vishu0911.github.io/Calculator/
+
+JavaScript (Vanilla)
+
+# 📸 Screenshot
+
+<img width="1440" height="815" alt="Screenshot 2025-08-21 at 10 56 45 PM" src="https://github.com/user-attachments/assets/bea2a464-9fcc-4061-ab45-9c730d0bcc46" />
