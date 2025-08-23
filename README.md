@@ -25,11 +25,13 @@ HTML5
 
 CSS3 (Flexbox + Media Queries for responsiveness)
 
+JavaScript (Vanilla)
+
+
 # 🌐 Live Demo
 
 https://vishu0911.github.io/Calculator/
 
-JavaScript (Vanilla)
 
 # 📸 Screenshot
 
